@@ -344,7 +344,7 @@ export default {
 		},
 		initSmartLockPlus() {
 			//initSmartLock 中需要5个参数，分别为：appid，appkey，二次开发者登陆dms的账号、二次开发者登陆dms的密码，初始化回调函数。前四个参数请微信联系18988768327或者13530382506获取
-			smartLock.initSmartLock('03969B8FA1FA49F4A19B2DA500157CCB', 'EE0D077AF15F49D7B95301F2B819AE54', '17683115044', '123456', (respones) => {
+			smartLock.initSmartLock('appid', 'appkey', '****', '*****', (respones) => {
 				if (respones.data.result != 0) {
 					uni.showToast({
 						title: '初始化失败',
