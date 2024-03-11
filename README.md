@@ -36,5 +36,8 @@ npm run build:%PLATFORM%
 - quickapp-webview-huawei: 快应用华为
 ## 项目部分截图
 ![image](doc/1.png)
+## 项目版权说明
+本项目仅供学习交流使用。如用于商业用途，请联系作者获取授权！联系方式🛰：️EnigmaGuest
+```
 
 
