@@ -35,23 +35,6 @@ npm run build:%PLATFORM%
 - quickapp-webview-union: 快应用联盟
 - quickapp-webview-huawei: 快应用华为
 ## 项目部分截图
-![image](doc/1.jpg)
-![image](doc/2.jpg)
-![image](doc/3.jpg)
-![image](doc/4.jpg)
-![image](doc/5.jpg)
-![image](doc/6.jpg)
-![image](doc/7.jpg)
-![image](doc/8.jpg)
-![image](doc/9.jpg)
-![image](doc/10.jpg)
-![image](doc/11.jpg)
-![image](doc/12.jpg)
-![image](doc/13.jpg)
-![image](doc/14.jpg)
-![image](doc/15.jpg)
-![image](doc/16.jpg)
-![image](doc/17.jpg)
-![image](doc/18.jpg)
+![image](doc/1.png)
 
 
